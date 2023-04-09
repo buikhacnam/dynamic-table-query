@@ -1,5 +1,10 @@
 # Dynamic Table Query by REST API
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4l26YuP2ZII/0.jpg)](https://www.youtube.com/watch?v=4l26YuP2ZII&ab_channel=CaseyBui)
+
 This is a simple Spring Boot application that allows you to execute dynamic SQL queries against a database using the javax.persistence.EntityManager API. The application exposes a REST endpoint that accepts a query parameter containing a SQL SELECT statement and returns the result set data as a list of JSON objects with named columns.
+
 ## Requirements
 -   Java 8 or higher
 - Spring Boot 2.5.0 or higher
